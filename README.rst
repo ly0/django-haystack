@@ -2,6 +2,8 @@
 Haystack
 ========
 
+Attention: This branch is for Ezbuy project.
+
 :author: Daniel Lindsley
 :date: 2013/07/28
 
